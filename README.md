@@ -1,4 +1,2 @@
 # maddietorgesen.github.io
-theme: jekyll-theme-minimal
-title: Maddie's homepage
-description: This is the new site for Maddie's gitHub page
+This repository is to create a GitHub page for CS155
